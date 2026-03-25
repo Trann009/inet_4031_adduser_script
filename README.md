@@ -15,7 +15,7 @@ line by line and perform the tasks.
 ## Input File Format
 
 The input file must be a text file where each line contains the following fields, separated by the character ":"
-**Username: Password:Last name:First Name: Groups(Doesn't have to be assigned and can be skipped using the character "-")**
+**Username:Password:Last name:First Name: Groups(Doesn't have to be assigned and can be skipped using the character "-")**
 Also, while running the file, please remember if lines start with the character "#", it will be skipped as the script treats them as a skip.
 If the file format also doesnt contain 5 sections, it will also be skipped in the script.
 
